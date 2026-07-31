@@ -1,0 +1,132 @@
+<h2>4.1 固定文案与底层信息层级总表</h2>
+<p>以下先记录页面“必须说什么”，再讨论“长什么样”。层级定义为：L0 系统与全局状态；L1 页面身份；L2 核心任务信息；L3 内容字段；L4 操作；L5 辅助、反馈与异常。</p>
+
+<p><b>P01 语言选择</b></p>
+<table>
+  <thead><tr><th background-color="light-gray">层级</th><th background-color="light-gray">固定信息 / 文案</th><th background-color="light-gray">作用</th></tr></thead>
+  <tbody>
+    <tr><td>L0</td><td>步骤指示；已连接</td><td>说明处于首次设置流程且网络正常</td></tr>
+    <tr><td>L1</td><td>LumiQ Tablet；选择语言；请选择你想使用的语言</td><td>识别产品并说明当前任务</td></tr>
+    <tr><td>L2–L3</td><td>繁體中文 / Traditional Chinese；English / English；日本語 / Japanese</td><td>提供语言选项及双语识别</td></tr>
+    <tr><td>L4</td><td>下一步</td><td>确认当前语言并进入下一环节</td></tr>
+    <tr><td>L5</td><td>当前选中状态；未选择时按钮禁用；语言切换后的即时反馈</td><td>避免用户不知道选择是否生效</td></tr>
+  </tbody>
+</table>
+
+<p><b>P02 体验兑换码</b></p>
+<table>
+  <thead><tr><th background-color="light-gray">层级</th><th background-color="light-gray">固定信息 / 文案</th><th background-color="light-gray">作用</th></tr></thead>
+  <tbody>
+    <tr><td>L0</td><td>上一步；阶段 2；四阶段进度；跳过此阶段</td><td>交代新手流程位置与退出方式</td></tr>
+    <tr><td>L1</td><td>输入体验兑换码</td><td>说明唯一主任务</td></tr>
+    <tr><td>L2</td><td>有 Free LumiQBook 兑换码吗？可兑换免费实体绘本及 Pro 体验；没有也可直接跳过</td><td>解释兑换价值并降低无兑换码用户的焦虑</td></tr>
+    <tr><td>L3</td><td>兑换码输入框；示例 LUMIQ-8EZL-8CN9</td><td>收集并展示输入格式</td></tr>
+    <tr><td>L4</td><td>验证代码；下一步；没有？跳过</td><td>验证权益、继续或跳过</td></tr>
+    <tr><td>L5</td><td>验证中、验证成功、代码无效、已使用、已过期、网络失败；成功权益与有效期</td><td>补足截图未展示但任务必需的反馈</td></tr>
+  </tbody>
+</table>
+
+<p><b>P03 新增儿童完成</b></p>
+<table>
+  <thead><tr><th background-color="light-gray">层级</th><th background-color="light-gray">固定信息 / 文案</th><th background-color="light-gray">作用</th></tr></thead>
+  <tbody>
+    <tr><td>L0</td><td>上一步；阶段 3·专属个人化；四阶段进度；第 3 / 4 步·确认</td><td>说明设置进度</td></tr>
+    <tr><td>L1</td><td>已新增 1 位小朋友</td><td>完成反馈</td></tr>
+    <tr><td>L2–L3</td><td>点一下头像可以编辑或移除；儿童头像；儿童名称“你”</td><td>确认当前档案并提供修正入口</td></tr>
+    <tr><td>L4</td><td>再新增一位；下一步：念故事的声音</td><td>继续新增或进入下一个个性化步骤</td></tr>
+    <tr><td>L5</td><td>人数上限、重复姓名、头像上传失败、删除确认</td><td>补足档案管理状态</td></tr>
+  </tbody>
+</table>
+
+<p><b>P04 儿童首页</b></p>
+<table>
+  <thead><tr><th background-color="light-gray">层级</th><th background-color="light-gray">固定信息 / 文案</th><th background-color="light-gray">作用</th></tr></thead>
+  <tbody>
+    <tr><td>L0</td><td>时间、Wi‑Fi、蓝牙 / 亮度、电量；积分 70；头像；家长专区；二维码 / 设备入口</td><td>全局状态、身份与家长入口</td></tr>
+    <tr><td>L1</td><td>LumiQ Tablet</td><td>产品身份</td></tr>
+    <tr><td>L2</td><td>探索；学习；积分</td><td>儿童端三条主路径</td></tr>
+    <tr><td>L3</td><td>进入 LumiQ 图书馆；学习教学素材；70 点</td><td>解释每个入口的结果与当前状态</td></tr>
+    <tr><td>L4</td><td>整张入口卡片可点击；头像切换；进入家长专区；设备配网</td><td>完成导航</td></tr>
+    <tr><td>L5</td><td>设备未连接、内容加载、无儿童档案、继续阅读提醒</td><td>补足首页实际运行状态</td></tr>
+  </tbody>
+</table>
+
+<p><b>P05 故事书库</b></p>
+<table>
+  <thead><tr><th background-color="light-gray">层级</th><th background-color="light-gray">固定信息 / 文案</th><th background-color="light-gray">作用</th></tr></thead>
+  <tbody>
+    <tr><td>L0</td><td>返回首页；积分；头像；家长专区；二维码；网格 / 列表切换</td><td>维持全局导航与状态</td></tr>
+    <tr><td>L1</td><td>LumiQ Tablet；搜寻故事…</td><td>标识书库并提供直接搜索</td></tr>
+    <tr><td>L2</td><td>全部书库、为你推荐、经典故事、成为主角、LumiQ 原创、选择冒险、我的收藏、已下载</td><td>内容模式一级导航</td></tr>
+    <tr><td>L3</td><td>全部、童话、冒险、科普、人文、动物、奇幻；专题标题；继续阅读；故事卡片</td><td>题材过滤和内容分区</td></tr>
+    <tr><td>L4</td><td>打开故事；收藏 / 取消收藏；下载；继续阅读；切换视图</td><td>内容操作</td></tr>
+    <tr><td>L5</td><td>搜索无结果、分类为空、加载中、下载中 / 已下载、阅读进度、内容不可用</td><td>保证搜索和内容状态闭环</td></tr>
+  </tbody>
+</table>
+
+<p><b>P06 订阅方案</b></p>
+<table>
+  <thead><tr><th background-color="light-gray">层级</th><th background-color="light-gray">固定信息 / 文案</th><th background-color="light-gray">作用</th></tr></thead>
+  <tbody>
+    <tr><td>L0</td><td>返回；家长专区；当前家长帐号；左侧管理导航</td><td>说明处于家长权限区</td></tr>
+    <tr><td>L1</td><td>订阅方案</td><td>页面身份</td></tr>
+    <tr><td>L2</td><td>目前方案；Pro 方案；使用中；至 2027-01-17；当前额度 / 使用量</td><td>先回答“我现在是什么方案”</td></tr>
+    <tr><td>L3</td><td>月缴 / 年缴；Lite 方案；Pro 方案；NT$199 / 月、NT$399 / 月；NT$1,990 / 年、NT$3,990 / 年；权益清单</td><td>比较计费与权益</td></tr>
+    <tr><td>L4</td><td>查看细则；改月缴 / 改年缴；升级 / 续费 / 变更方案</td><td>完成方案操作</td></tr>
+    <tr><td>L5</td><td>自动续费说明、立即生效时间、恢复购买、购买中、成功、失败、取消、到期</td><td>补足真实付费流程</td></tr>
+  </tbody>
+</table>
+
+<p><b>P07 故事详情</b></p>
+<table>
+  <thead><tr><th background-color="light-gray">层级</th><th background-color="light-gray">固定信息 / 文案</th><th background-color="light-gray">作用</th></tr></thead>
+  <tbody>
+    <tr><td>L0</td><td>返回书库</td><td>返回上层内容列表</td></tr>
+    <tr><td>L1</td><td>小红帽；故事封面</td><td>建立当前内容身份</td></tr>
+    <tr><td>L2</td><td>约 10 分钟；适合所有年龄；共 20 页；故事大纲</td><td>帮助用户判断是否适合阅读</td></tr>
+    <tr><td>L3</td><td>故事简介正文；已有阅读进度</td><td>解释故事内容与当前状态</td></tr>
+    <tr><td>L4</td><td>继续阅读；从头开始；成为主角；改编故事</td><td>阅读主操作与创作扩展</td></tr>
+    <tr><td>L5</td><td>无进度时改为“开始阅读”；从头开始确认；创作功能的照片 / AI / 隐私说明</td><td>避免误操作并交代数据使用</td></tr>
+  </tbody>
+</table>
+
+<p><b>P08 阅读播放器与设置</b></p>
+<table>
+  <thead><tr><th background-color="light-gray">层级</th><th background-color="light-gray">固定信息 / 文案</th><th background-color="light-gray">作用</th></tr></thead>
+  <tbody>
+    <tr><td>L0</td><td>返回；时间与设备状态；互动开关 / 教学入口</td><td>提供退出和系统状态</td></tr>
+    <tr><td>L1</td><td>故事主画面；字幕；页码 1 / 20、5 / 20</td><td>当前故事内容与进度</td></tr>
+    <tr><td>L2</td><td>按住小红帽往外拉；角色对话气泡</td><td>互动任务提示</td></tr>
+    <tr><td>L3</td><td>旁白角色；语言；速度；音量；背景音乐</td><td>设置分组</td></tr>
+    <tr><td>L4</td><td>女声、男声、Aunt；中文、EN、日；慢、一般、快；音量滑杆；开 / 关；朗读 / 播放</td><td>具体设置与播放操作</td></tr>
+    <tr><td>L5</td><td>设置即时预览、保存反馈、语言资源加载、互动不可用、进度已保存；删除内部测试项“test”</td><td>保证设置可理解并可恢复</td></tr>
+  </tbody>
+</table>
+
+<p><b>P09 投影设备配网</b></p>
+<table>
+  <thead><tr><th background-color="light-gray">层级</th><th background-color="light-gray">固定信息 / 文案</th><th background-color="light-gray">作用</th></tr></thead>
+  <tbody>
+    <tr><td>L0</td><td>关闭弹窗；保留阅读背景</td><td>保持任务上下文并允许退出</td></tr>
+    <tr><td>L1</td><td>连接投影设备</td><td>说明当前任务</td></tr>
+    <tr><td>L2</td><td>请让投影设备扫描 QR Code；正在准备配网 QR Code…；二维码</td><td>说明操作对象与当前状态</td></tr>
+    <tr><td>L3</td><td>平板与投影设备必须连接同一个 Wi‑Fi</td><td>提供成功前提</td></tr>
+    <tr><td>L4</td><td>重新产生 QR Code</td><td>处理过期或失败</td></tr>
+    <tr><td>L5</td><td>平板未联网、投影未联网、不在同一 Wi‑Fi、二维码已过期、正在连接、连接成功、连接失败</td><td>补足配网全状态</td></tr>
+  </tbody>
+</table>
+
+<p><b>P10 家长 PIN</b></p>
+<table>
+  <thead><tr><th background-color="light-gray">层级</th><th background-color="light-gray">固定信息 / 文案</th><th background-color="light-gray">作用</th></tr></thead>
+  <tbody>
+    <tr><td>L0</td><td>返回；阶段 1·安全设定或家长专区</td><td>区分首次设置与日常验证</td></tr>
+    <tr><td>L1</td><td>设定家长 PIN / 请输入家长 PIN 码</td><td>对应创建或验证任务</td></tr>
+    <tr><td>L2</td><td>6 位数字，用于家长设定与付款等敏感操作；PIN 仅保存在此装置并保护家长设定</td><td>解释安全目的</td></tr>
+    <tr><td>L3</td><td>6 个输入位；数字 0–9；删除；PIN 提示</td><td>输入与恢复辅助</td></tr>
+    <tr><td>L4</td><td>下一步；忘记 PIN</td><td>继续或进入恢复流程</td></tr>
+    <tr><td>L5</td><td>再次输入确认、PIN 不一致、PIN 错误、剩余次数、暂时锁定、重置成功</td><td>补足创建、验证和恢复状态</td></tr>
+  </tbody>
+</table>
+
+<p><b>文字源文件要求。</b>截图中的部分小字受录屏清晰度限制。价格、日期、方案权益、法律说明、儿童隐私和设备连接文案在最终设计前应由甲方提供可复制文本；在此之前不得靠 OCR 结果作为最终上线文案。</p>

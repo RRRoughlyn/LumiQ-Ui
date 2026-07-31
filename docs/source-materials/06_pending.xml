@@ -1,0 +1,16 @@
+<h2>6.1 必须确认的范围冲突</h2>
+<checkbox done="false">登录页和注册页是否必须占用最终 10 张中的两个名额？若必须，替换 P02、P03 或其他哪两页？</checkbox>
+<checkbox done="false">甲方说“信息层级满意”是指整段录屏，还是仅指后续发送的 10 张急用截图？</checkbox>
+<checkbox done="false">“阅读播放器与设置”按一张合并展示，还是拆成播放器主画面与设置浮层两张？</checkbox>
+<h2>6.2 账户与儿童</h2>
+<checkbox done="false">正式登录方式：手机号、Email、验证码、密码、Apple、Google 或设备绑定？</checkbox>
+<checkbox done="false">注册主体是家长还是儿童？是否需要年龄门槛、家长同意和隐私授权？</checkbox>
+<checkbox done="false">每个方案支持的儿童数量、主儿童规则、删除与资料迁移机制。</checkbox>
+<h2>6.3 内容、语言与 AI</h2>
+<checkbox done="false">正式支持的语言，以及菜单、字幕、旁白和搜索是否同时切换。</checkbox>
+<checkbox done="false">“成为主角”“改编故事”“角色对话”会使用哪些儿童照片、语音或生成数据，是否需要家长确认。</checkbox>
+<checkbox done="false">故事年龄分级、内容筛选、下载与离线规则。</checkbox>
+<h2>6.4 订阅与设备</h2>
+<checkbox done="false">最终价格、货币、权益、自动续费、支付渠道、恢复购买与退款规则。</checkbox>
+<checkbox done="false">投影设备的真实连接流程：扫描方、二维码有效期、设备发现、配网成功回调。</checkbox>
+<checkbox done="false">PIN 重置方式、失败次数限制及是否支持 Face ID / Touch ID。</checkbox>
